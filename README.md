@@ -3,18 +3,20 @@
 
 ## What is MYSchedule? 
 What is the project about? The motivation of the project and possible contribution. (2-3 sentences)
-This project involves the mobile app user experience design for the community with the similar aesthetical taste... 
+This project involves the mobile app user experience design for the community with the similar aesthetical taste...
+
+In this project, I will propose a novel 
 
 ## Design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? What is your contribution to the community?  
 
 ## Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated. [read more...](https://github.com/samanthachiuu/DH150-Assignment1/blob/master/README.md)
+There are many calendaring apps for users to use . [read more...](https://github.com/samanthachiuu/DH150-Assignment1/blob/master/README.md)
 
 
  
 
-website01 | website02
+myUCLA | Craigslist
 ------------|-------------
 ![myUCLA](https://user-images.githubusercontent.com/59623131/72328734-55ab2680-3668-11ea-85fe-1ee492ad948a.png)|![Craigslist](https://user-images.githubusercontent.com/59623131/72328811-7d9a8a00-3668-11ea-9463-ce81e319e067.png)
 
