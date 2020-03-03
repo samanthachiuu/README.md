@@ -11,7 +11,7 @@ In this project, I will propose a novel
 What is the issue and Why do you think it is important to resolve that issue by your project? What is your contribution to the community?  
 
 ## Competitor analysis [assignment01 & 02]:
-There are many calendaring apps for users to use . [read more...](https://github.com/samanthachiuu/DH150-Assignment1/blob/master/README.md)
+I chose to focus on two different communities . [read more...](https://github.com/samanthachiuu/DH150-Assignment1/blob/master/README.md)
 
 
  
