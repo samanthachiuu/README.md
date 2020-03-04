@@ -19,11 +19,18 @@ myUCLA | Craigslist
 ------------|-------------
 ![myUCLA](https://user-images.githubusercontent.com/59623131/72328734-55ab2680-3668-11ea-85fe-1ee492ad948a.png)|![Craigslist](https://user-images.githubusercontent.com/59623131/72328811-7d9a8a00-3668-11ea-9463-ce81e319e067.png)
 
-Usability testing video
-[![Usability Testing](http code
+## Website Analysis: Usability Testing
+
+The rationale behind the UT for myUCLA class planner website was because of the main user functionalities that I felt could be better. From looking at the list of the heuristic reviews, I felt that the website lacked in the flexibility and efficiency of use, consistency and standards, and the aesthetic and minimalist design. Therefore, I was hoping the UT can help find evidence that these specific areas of the website can be improved. The purpose of the usability testing aims to find out how to improve the web/app from user’s perspective.Task 1 will ask the user to find the classes they need to take for their major the next quarter. Task 2 will ask the user to enroll in their classes and Task 3 will ask the user to find specific classes. 
+
+What I learned during the pilot test is that there could be many things that you might not expect the user to do and might be very unexpected, but the best thing to do is to go with the flow and make sure the user feels comfortable. Additionally, the pilot testing might take longer than expected because the user might be stuck on a certain question longer than others. What went well during the pilot testing was that the user did not give up and was able to go through all the tasks without feeling bad that they did not get every question. I wanted to make sure the user was comfortable and right, and that went really well.[read more...](https://github.com/samanthachiuu/DH150-Assignment1/tree/master/Assignment%202) 
+
+[![THE-ALT-TEXT](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO-ID "ALT-TEXT")
 
 ## User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+
+Usability testing video
+[![Usability Testing](http code
 
 ## UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
