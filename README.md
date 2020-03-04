@@ -25,7 +25,10 @@ The rationale behind the UT for myUCLA class planner website was because of the 
 
 What I learned during the pilot test is that there could be many things that you might not expect the user to do and might be very unexpected, but the best thing to do is to go with the flow and make sure the user feels comfortable. Additionally, the pilot testing might take longer than expected because the user might be stuck on a certain question longer than others. What went well during the pilot testing was that the user did not give up and was able to go through all the tasks without feeling bad that they did not get every question. I wanted to make sure the user was comfortable and right, and that went really well. [read more...](https://github.com/samanthachiuu/DH150-Assignment1/tree/master/Assignment%202) 
 
-[![Screen Recording](http://img.youtube.com/vi/572J0g36EaI/0.jpg)](https://www.youtube.com/watch?v=572J0g36EaI "Part 1")
+Screen Recording P1 | Screen Recording P2
+-------------------- | ---------------------
+
+[![Screen Recording](http://img.youtube.com/vi/572J0g36EaI/0.jpg)](https://www.youtube.com/watch?v=572J0g36EaI "Part 1")|[![Screen Recording](http://img.youtube.com/vi/mx8yX95eh4s/0.jpg)](https://www.youtube.com/watch?v=mx8yX95eh4s "Part 2")
 
 ## User research [contextual inquiry, assignment04]:
 
