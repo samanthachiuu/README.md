@@ -27,7 +27,6 @@ What I learned during the pilot test is that there could be many things that you
 
 Screen Recording P1 | Screen Recording P2
 -------------------- | ---------------------
-
 [![Screen Recording](http://img.youtube.com/vi/572J0g36EaI/0.jpg)](https://www.youtube.com/watch?v=572J0g36EaI "Part 1")|[![Screen Recording](http://img.youtube.com/vi/mx8yX95eh4s/0.jpg)](https://www.youtube.com/watch?v=mx8yX95eh4s "Part 2")
 
 ## User research [contextual inquiry, assignment04]:
