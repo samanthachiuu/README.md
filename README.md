@@ -29,13 +29,21 @@ Screen Recording P1 | Screen Recording P2
 -------------------- | ---------------------
 [![Screen Recording](http://img.youtube.com/vi/572J0g36EaI/0.jpg)](https://www.youtube.com/watch?v=572J0g36EaI "Part 1")|[![Screen Recording](http://img.youtube.com/vi/mx8yX95eh4s/0.jpg)](https://www.youtube.com/watch?v=mx8yX95eh4s "Part 2")
 
-## User research [contextual inquiry, assignment04]:
+Audio Video P1 | Audio Video P2
+--------------- | ----------------
+[![Screen Recording](http://img.youtube.com/vi/gIz0_eleLbc/0.jpg)](https://www.youtube.com/watch?v=gIz0_eleLbc "Part 1")|[![Screen Recording](http://img.youtube.com/vi/_lbBM8g_sZs/0.jpg)](https://www.youtube.com/watch?v=_lbBM8g_sZs "Part 2")
 
-Usability testing video
-[![Usability Testing](http code
+## User Research: Contextual Inquiry
 
-## UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+The main activity my project would support is user’s time management and planning/scheduling habits. The basic need involved for the activity could be the users understanding of what works best for them when remembering events to go to and assignments to do. According to Maslow’s Hiearchy of Needs, the user would need psychological needs because they need to know what type of person they are and a feeling of accomplishment in order for them to want to have time management. The limitations that possibly would be improved with digital technology is that most people have their phones with them at all times, so if you were to use an online app like Google Calendar on your phone, you can input events whenever and it can send you alerts of the events (something that a physical planner cannot do). [read more...](https://github.com/samanthachiuu/Assignment-4)
+
+## UX Storytelling: Persona + Scenario
+
+Persona1 | Persona2 | Persona3
+---------- | ---------- | -----------
+![Angie](https://user-images.githubusercontent.com/59623131/75843817-09878300-5d89-11ea-80f2-b1054cc38cd8.png)|![Crystal](https://user-images.githubusercontent.com/59623131/75843811-05f3fc00-5d89-11ea-8396-551a834825e3.png)|![Emmalee](https://user-images.githubusercontent.com/59623131/75843809-02f90b80-5d89-11ea-8f65-e487b5a144c4.png)
+
+
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
