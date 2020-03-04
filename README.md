@@ -43,6 +43,7 @@ Persona1 | Persona2 | Persona3
 ---------- | ---------- | -----------
 ![Angie](https://user-images.githubusercontent.com/59623131/75843817-09878300-5d89-11ea-80f2-b1054cc38cd8.png)|![Crystal](https://user-images.githubusercontent.com/59623131/75843809-02f90b80-5d89-11ea-8f65-e487b5a144c4.png)|![Emmalee](https://user-images.githubusercontent.com/59623131/75843811-05f3fc00-5d89-11ea-8396-551a834825e3.png)
 
+[read more to find Scenarios...](https://github.com/samanthachiuu/Assignment5/blob/master/README.md) 
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
