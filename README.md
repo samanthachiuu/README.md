@@ -1,16 +1,15 @@
 # MYSchedule
 ## DH150 UX Design, Samantha Chiu
 
-## What is MYSchedule? 
-What is the project about? The motivation of the project and possible contribution. (2-3 sentences)
-This project involves the mobile app user experience design for the community with the similar aesthetical taste...
+## Introduction: What is MYSchedule?
 
-In this project, I will propose a novel 
+In this project, I will propose a ux design of a mobile app to enhance the aestetic and convenience experience of the scheduling community. The motivation of the project is to better manage our time as busy individuals going through our day. I will offer the accessibility and satisfactory of the user experience by creating 3 features I want to improve within this community and prototypes of how I will improve it.   
 
 ## Design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? What is your contribution to the community?  
 
-## Competitor analysis [assignment01 & 02]:
+Finding time to do everything you have to do in a day can be difficult when you do not have anything to note it down on. One of the biggest issues as students is that we never plan when we should do our homework and only know when the homework is due. Another issue is that we tend to overschedule ourselves and end up having to skip out on things because you did not know you over booked. Lastly, students want to hang out with their friends but people usually take forever to reply. My app, MYSchedule, will be able to resolve all of these issues by my project because I will be addressing each issue with a solution. MYSchedule tends to help other people with managing their time and going through their day more efficiently and productively.
+
+## Competitor analysis [Heuristic Evaluation]:
 I chose to focus on two different communities . [read more...](https://github.com/samanthachiuu/DH150-Assignment1/blob/master/README.md)
 
 
