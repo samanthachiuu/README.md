@@ -47,12 +47,16 @@ Persona1 | Persona2 | Persona3
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
-The three features I created from the journey map scenarios includes giving users the option to put in dedicated time to do their homework and to lock all social media apps throughout the time of homework. Another feature is a warning that popped up for the user when he or she scheduled something that overlapped another event that was scheduled. Lastly, my third feature is being able to see your contacts availabilities so that the user can see which days your friends are free to hangout and schedule them yourself. The purpose of this low-fidelity prototyping is to visualize what the features would look like and how users would interact with it. I am specifically just drawing out the main features that I want the users to focus on and this process will help me with my high-fidelity prototypes because I will have the foundation down.
+The three features I created from the journey map scenarios includes giving users the option to put in dedicated time to do their homework and to lock all social media apps throughout the time of homework. Another feature is a warning that popped up for the user when he or she scheduled something that overlapped another event that was scheduled. Lastly, my third feature is being able to see your contacts availabilities so that the user can see which days your friends are free to hangout and schedule them yourself. 
 
-The user-research was a great process for me to understand what complications and obstacles users have when managing their time and scheduling their time.
+Initial Sketch |
+-------------- |
+![Initial Sketch](https://user-images.githubusercontent.com/59623131/75863331-22a62900-5db5-11ea-9078-29d858d3513c.jpg)|
 
 ## Low-fidelity prototype (wireflow, assignment07)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
+The purpose of this low-fidelity prototyping is to visualize what the features would look like and how users would interact with it. I am specifically just drawing out the main features that I want the users to focus on and this process will help me with my high-fidelity prototypes because I will have the foundation down.
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
