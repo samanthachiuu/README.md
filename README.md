@@ -51,7 +51,7 @@ The main activity my project would support is user’s time management and plann
 
 ## UX Storytelling: Persona + Scenario
 
-I had 3 personas that were all in college, but some were older and some were younger, where one of them was a freshmen of college and another one was a 5th year part-time student. [read more to find Scenarios...](https://github.com/samanthachiuu/Assignment5/blob/master/README.md) 
+All 3 of the personas are in college, but some are older and some are younger, where one of them is a freshmen of college, another is a third year student, and a 5th year part-time student. All three of the personas have their own problems that they want to be better at. Angie feels like she does not have time to do homework and wants to plan it better. Emmalee always overbooks her schedule and 2 events always overlap each other where she has to decide which one to go to. Crystal thinks that she is bothering her friends all the time asking when they are free and finding a time to meet.  [read more to find Scenarios and Personas...](https://github.com/samanthachiuu/Assignment5/blob/master/README.md) 
 
 Persona1 | Persona2 | Persona3
 ---------- | ---------- | -----------
@@ -81,7 +81,11 @@ Feature 1 | Feature 2 | Feature 3
 -------------------------
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+
+The purpose of this high-fidelity prototype is so that the users testing it can visually see what it would look like if it were a real app come to life. The different tasks that the prototype demonstrates are scheduling time to do your homework and the option of locking social media applications as well if you have the app on your phone, getting a notification when you try to schedule multiple events at the same time or overlapping times so the user is aware of the time overlap, and being able to see your friends availability so you can schedule when to hangout with them or catch up. Building this prototype, 
+I built my high-fidelity prototype on Figma and created all the screens and components on there as well from feedback from usability testing and my wireframes. 
+
+[read more...](https://github.com/samanthachiuu/Assignment8/blob/master/README.md)
 
 <iframe style="border: none;" width="900" height="750" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FpTDVdSnVU3DQ6vAo81nkRI%2FMYSchedule%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
