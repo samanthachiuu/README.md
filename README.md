@@ -53,10 +53,10 @@ Initial Sketch |
 -------------- |
 ![Initial Sketch](https://user-images.githubusercontent.com/59623131/75863331-22a62900-5db5-11ea-9078-29d858d3513c.jpg)|
 
-## Low-fidelity prototype (wireflow, assignment07)
+## Low-fidelity Prototype (wireflow, assignment07)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-The purpose of this low-fidelity prototyping is to visualize what the features would look like and how users would interact with it. I am specifically just drawing out the main features that I want the users to focus on and this process will help me with my high-fidelity prototypes because I will have the foundation down.
+The purpose of this low-fidelity prototyping is to visualize what the features would look like and how users would interact with it. I am specifically just drawing out the main features that I want the users to focus on and this process will help me with my high-fidelity prototypes because I will have the foundation down. [read more to see Low-fidelity Prototype...](https://github.com/samanthachiuu/Assignment-4)
 
 Feature 1 | Feature 2 | Feature 3
 ---------- | ----------- | -----------
