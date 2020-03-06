@@ -39,13 +39,17 @@ The main activity my project would support is user’s time management and plann
 
 ## UX Storytelling: Persona + Scenario
 
+I had 3 personas that were all in college, but some were older and some were younger, where one of them was a freshmen of college and another one was a 5th year part-time student. [read more to find Scenarios...](https://github.com/samanthachiuu/Assignment5/blob/master/README.md) 
+
 Persona1 | Persona2 | Persona3
 ---------- | ---------- | -----------
 ![Angie](https://user-images.githubusercontent.com/59623131/75843817-09878300-5d89-11ea-80f2-b1054cc38cd8.png)|![Crystal](https://user-images.githubusercontent.com/59623131/75843809-02f90b80-5d89-11ea-8f65-e487b5a144c4.png)|![Emmalee](https://user-images.githubusercontent.com/59623131/75843811-05f3fc00-5d89-11ea-8396-551a834825e3.png)
 
-[read more to find Scenarios...](https://github.com/samanthachiuu/Assignment5/blob/master/README.md) 
-
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
+
+The three features I created from the journey map scenarios includes giving users the option to put in dedicated time to do their homework and to lock all social media apps throughout the time of homework. Another feature is a warning that popped up for the user when he or she scheduled something that overlapped another event that was scheduled. Lastly, my third feature is being able to see your contacts availabilities so that the user can see which days your friends are free to hangout and schedule them yourself. The purpose of this low-fidelity prototyping is to visualize what the features would look like and how users would interact with it. I am specifically just drawing out the main features that I want the users to focus on and this process will help me with my high-fidelity prototypes because I will have the foundation down.
+
+The user-research was a great process for me to understand what complications and obstacles users have when managing their time and scheduling their time.
 
 ## Low-fidelity prototype (wireflow, assignment07)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
