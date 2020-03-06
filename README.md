@@ -82,10 +82,7 @@ Feature 1 | Feature 2 | Feature 3
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 
-The purpose of this high-fidelity prototype is so that the users testing it can visually see what it would look like if it were a real app come to life. The different tasks that the prototype demonstrates are scheduling time to do your homework and the option of locking social media applications as well if you have the app on your phone, getting a notification when you try to schedule multiple events at the same time or overlapping times so the user is aware of the time overlap, and being able to see your friends availability so you can schedule when to hangout with them or catch up. Building this prototype, 
-I built my high-fidelity prototype on Figma and created all the screens and components on there as well from feedback from usability testing and my wireframes. 
-
-[read more...](https://github.com/samanthachiuu/Assignment8/blob/master/README.md)
+The purpose of this high-fidelity prototype is so that the users testing it can visually see what it would look like if it were a real app come to life. The different tasks that the prototype demonstrates are scheduling time to do your homework and the option of locking social media applications as well if you have the app on your phone, getting a notification when you try to schedule multiple events at the same time or overlapping times so the user is aware of the time overlap, and being able to see your friends availability so you can schedule when to hangout with them or catch up. Building this prototype, I aim to improve the usability aspects of scheduling events in our everyday lives. I built my high-fidelity prototype on Figma and created all the screens and components on there as well from feedback from usability testing and my wireframes. [read more...](https://github.com/samanthachiuu/Assignment8/blob/master/README.md)
 
 <iframe style="border: none;" width="900" height="750" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FpTDVdSnVU3DQ6vAo81nkRI%2FMYSchedule%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
@@ -104,4 +101,4 @@ link from Youtube
 
 ------------------------
 
-## conclusion: what you learned throughout the process
+## Conclusion: what you learned throughout the process
