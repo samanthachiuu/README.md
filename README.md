@@ -58,6 +58,10 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 
 The purpose of this low-fidelity prototyping is to visualize what the features would look like and how users would interact with it. I am specifically just drawing out the main features that I want the users to focus on and this process will help me with my high-fidelity prototypes because I will have the foundation down.
 
+Feature 1 | Feature 2 | Feature 3
+---------- | ----------- | -----------
+![Feature1](https://user-images.githubusercontent.com/59623131/75863237-ff7b7980-5db4-11ea-934e-d53e67e75878.jpg)|![Feature2](https://user-images.githubusercontent.com/59623131/75863300-18842a80-5db5-11ea-8c55-51c718c38d2b.jpg)|![Feature3](https://user-images.githubusercontent.com/59623131/75862876-6fd5cb00-5db4-11ea-8960-0f173c79e311.jpg)
+
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
