@@ -1,9 +1,13 @@
 # MYSchedule
-## DH150 UX Design, Samantha Chiu
+**DH150 UX Design, Samantha Chiu**
+
+----------------------
 
 ## Introduction: What is MYSchedule?
 
 In this project, I will propose a ux design of a mobile app to enhance the aestetic and convenience experience of the scheduling community. The motivation of the project is to better manage our time as busy individuals going through our day. I will offer the accessibility and satisfactory of the user experience by creating 3 features I want to improve within this community and prototypes of how I will improve it.   
+
+-------------------------
 
 ## Design Statement: 
 
