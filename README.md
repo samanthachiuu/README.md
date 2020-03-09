@@ -110,8 +110,11 @@ Screen Recording |
 
 ------------------------
 
-## Pitch video [update the video after recording your presentation]
-link from Youtube 
+## Pitch Video
+
+Pitch MySchedule |
+------------------- |
+[![Pitch Video](http://img.youtube.com/vi/-CCY9fBTH3A/0.jpg)](https://www.youtube.com/watch?v=-CCY9fBTH3A "Pitch Video")| 
 
 ------------------------
 
