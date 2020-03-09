@@ -85,9 +85,9 @@ The purpose of this high-fidelity prototype is so that the users testing it can 
 
 Main Screen|
 ----------- |
-![Main Screen](https://user-images.githubusercontent.com/59623131/76177168-93ac5e80-6170-11ea-892d-088013971a3a.png)|
+![Main Screen](<img src="https://user-images.githubusercontent.com/59623131/76177168-93ac5e80-6170-11ea-892d-088013971a3a.png" alt=mainscreen width="800" height="800">)|
 
-<img src="https://user-images.githubusercontent.com/59623131/76177168-93ac5e80-6170-11ea-892d-088013971a3a.png" alt=mainscreen height="400">
+![Main Screen](https://user-images.githubusercontent.com/59623131/76177168-93ac5e80-6170-11ea-892d-088013971a3a.png)|
 
 [Link to live high-fidelity prototype](https://www.figma.com/proto/pTDVdSnVU3DQ6vAo81nkRI/MYSchedule?node-id=4%3A0&scaling=scale-down)
 
