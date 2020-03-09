@@ -105,7 +105,7 @@ Screen Recording |
 
 [Audio...](https://drive.google.com/drive/folders/0B2RnEFe60XphfkJwc0prTzYyUWp0b0Rtd28tWFdxbUZOc1RFQVhsS2xSYlNlTG9ERkN0NFE?usp=sharing)
 
-[Transciption...](https://docs.google.com/document/d/1l5G9nvZIESrFJ7p50JUwdmwcKpUkFJQoV8N_5IPqcD8/edit?usp=sharing)
+[Transcription...](https://docs.google.com/document/d/1l5G9nvZIESrFJ7p50JUwdmwcKpUkFJQoV8N_5IPqcD8/edit?usp=sharing)
 
 
 ------------------------
@@ -113,9 +113,8 @@ Screen Recording |
 ## Pitch video [update the video after recording your presentation]
 link from Youtube 
 
-<figure class="video_container">
-<embed code>
-
 ------------------------
 
-## Conclusion: what you learned throughout the process
+## Conclusion
+What I learned throughout this process is how important it is to think like the user. The possibilities are endless when it comes to what the user can do during usability testing because every person is different in how they think about a problem and a solution. I am very grateful to have learned how to work on a project from the very beginning, where you figure out what community you want to contribute to, to the very end, where you created a whole new application of your interpretations of how to solve the problems you found through user research. The most important thing I took out from this process is to focus on specific features you want to improve first and then work your way to something more detailed so you can perfect them. 
+
