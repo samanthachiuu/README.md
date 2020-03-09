@@ -85,7 +85,7 @@ The purpose of this high-fidelity prototype is so that the users testing it can 
 
 Main Screen|
 ----------- |
-![Main Screen](https://user-images.githubusercontent.com/59623131/76177168-93ac5e80-6170-11ea-892d-088013971a3a.png)|
+![Main Screen](https://user-images.githubusercontent.com/59623131/76177168-93ac5e80-6170-11ea-892d-088013971a3a.png)|height=400
 
 [Link to live high-fidelity prototype](https://www.figma.com/proto/pTDVdSnVU3DQ6vAo81nkRI/MYSchedule?node-id=4%3A0&scaling=scale-down)
 
@@ -116,5 +116,5 @@ link from Youtube
 ------------------------
 
 ## Conclusion
-What I learned throughout this process is how important it is to think like the user. The possibilities are endless when it comes to what the user can do during usability testing because every person is different in how they think about a problem and a solution. I am very grateful to have learned how to work on a project from the very beginning, where you figure out what community you want to contribute to, to the very end, where you created a whole new application of your interpretations of how to solve the problems you found through user research. The most important thing I took out from this process is to focus on specific features you want to improve first and then work your way to something more detailed so you can perfect them. 
+What I learned throughout this process is how important it is to think like the user. The possibilities are endless when it comes to what the user can do during usability testing because every person is different in how they think about a problem and a solution. I am very grateful to have learned how to work on a project from the very beginning, where you figure out what community you want to contribute to, to the very end, where you created a whole new application of your interpretations of how to solve the problems you found through user research. The most important thing I took out from this process is to focus on specific features you want to improve first and then work your way to something more detailed so you can perfect them. In the future, I hope to focus on how I can better improve the graphic design aspect because I want the interface to look more intricate, yet simplistic.  
 
