@@ -59,9 +59,9 @@ Persona1 | Persona2 | Persona3
 
 ---------------------------
 
-## Wireframe and graphic design element variation [assignment07 + part of 08]
+## Wireframe and Initial Sketch
 
-The three features I created from the journey map scenarios includes giving users the option to put in dedicated time to do their homework and to lock all social media apps throughout the time of homework. Another feature is a warning that popped up for the user when he or she scheduled something that overlapped another event that was scheduled. Lastly, my third feature is being able to see your contacts availabilities so that the user can see which days your friends are free to hangout and schedule them yourself. 
+The three features I created from the journey map scenarios includes giving users the option to put in dedicated time to do their homework and to lock all social media apps throughout the time of homework. Another feature is a warning that popped up for the user when he or she scheduled something that overlapped another event that was scheduled. Lastly, my third feature is being able to see your contacts availabilities so that the user can see which days your friends are free to hangout and schedule them yourself. [read more...](https://github.com/samanthachiuu/Assignment6)
 
 Initial Sketch |
 -------------- |
@@ -69,10 +69,9 @@ Initial Sketch |
 
 ----------------------
 
-## Low-fidelity Prototype (wireflow, assignment07)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+## Low-fidelity Prototype
 
-The purpose of this low-fidelity prototyping is to visualize what the features would look like and how users would interact with it. I am specifically just drawing out the main features that I want the users to focus on and this process will help me with my high-fidelity prototypes because I will have the foundation down. [read more to see Low-fidelity Prototype...](https://github.com/samanthachiuu/Assignment-4)
+The purpose of this low-fidelity prototyping is to visualize what the features would look like and how users would interact with it. I am specifically just drawing out the main features that I want the users to focus on and this process will help me with my high-fidelity prototypes because I will have the foundation down. I decided to sketch my prototype on paper first and then digitally create it for my high-fidelity prototype. [read more to see Low-fidelity Prototype...](https://github.com/samanthachiuu/Assignment6)
 
 Feature 1 | Feature 2 | Feature 3
 ---------- | ----------- | -----------
@@ -80,9 +79,15 @@ Feature 1 | Feature 2 | Feature 3
 
 -------------------------
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+## High-fidelity Prototype
 
 The purpose of this high-fidelity prototype is so that the users testing it can visually see what it would look like if it were a real app come to life. The different tasks that the prototype demonstrates are scheduling time to do your homework and the option of locking social media applications as well if you have the app on your phone, getting a notification when you try to schedule multiple events at the same time or overlapping times so the user is aware of the time overlap, and being able to see your friends availability so you can schedule when to hangout with them or catch up. Building this prototype, I aim to improve the usability aspects of scheduling events in our everyday lives. I built my high-fidelity prototype on Figma and created all the screens and components on there as well from feedback from usability testing and my wireframes. [read more...](https://github.com/samanthachiuu/Assignment8/blob/master/README.md)
+
+Main Screen|
+----------- |
+![Main Screen](https://user-images.githubusercontent.com/59623131/76177168-93ac5e80-6170-11ea-892d-088013971a3a.png)|
+
+[Link to live high-fidelity prototype](https://www.figma.com/proto/pTDVdSnVU3DQ6vAo81nkRI/MYSchedule?node-id=4%3A0&scaling=scale-down)
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FpTDVdSnVU3DQ6vAo81nkRI%2FMYSchedule%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
