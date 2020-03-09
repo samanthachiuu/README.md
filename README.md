@@ -95,8 +95,14 @@ Main Screen|
 
 --------------------------
 
-## Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+## Optional Evaluation
+
+### Usability Testing of MYSchedule
+
+Screen Recording | Audio Recording
+-------------------------------- | ----------------------------
+[![Usability Testing](http://img.youtube.com/vi/hPD1MbpVClU/0.jpg)](https://www.youtube.com/watch?v=hPD1MbpVClU "Screen Recording")| [!
+
 
 ------------------------
 
