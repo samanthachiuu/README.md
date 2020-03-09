@@ -99,9 +99,9 @@ Main Screen|
 
 ### Usability Testing of MYSchedule
 
-Screen Recording | Audio Recording
+Screen Recording | Audio | Audio Transcription
 -------------------------------- | ----------------------------
-[![Usability Testing](http://img.youtube.com/vi/hPD1MbpVClU/0.jpg)](https://www.youtube.com/watch?v=hPD1MbpVClU "Screen Recording")| [Audio Recording](https://drive.google.com/drive/folders/0B2RnEFe60XphfkJwc0prTzYyUWp0b0Rtd28tWFdxbUZOc1RFQVhsS2xSYlNlTG9ERkN0NFE?usp=sharing)
+[![Usability Testing](http://img.youtube.com/vi/hPD1MbpVClU/0.jpg)](https://www.youtube.com/watch?v=hPD1MbpVClU "Screen Recording")| [Listen...](https://drive.google.com/drive/folders/0B2RnEFe60XphfkJwc0prTzYyUWp0b0Rtd28tWFdxbUZOc1RFQVhsS2xSYlNlTG9ERkN0NFE?usp=sharing)| [Transciption...](https://docs.google.com/document/d/1l5G9nvZIESrFJ7p50JUwdmwcKpUkFJQoV8N_5IPqcD8/edit?usp=sharing)
 
 
 ------------------------
